@@ -1,0 +1,141 @@
+class_id,class_name,rank,feature_idx,feature_name,mean_abs_shap
+0,Bulk Carrier,1,117,duration,0.34975986594125147
+0,Bulk Carrier,2,166,traj_len,0.27027257300432395
+0,Bulk Carrier,3,43,trans_emb_43,0.25940172757581365
+0,Bulk Carrier,4,14,trans_emb_14,0.22869948687822214
+0,Bulk Carrier,5,0,trans_emb_0,0.07664795428163228
+0,Bulk Carrier,6,28,trans_emb_28,0.06453986755005849
+0,Bulk Carrier,7,1,trans_emb_1,0.053754189714103444
+0,Bulk Carrier,8,23,trans_emb_23,0.05284371508082487
+0,Bulk Carrier,9,46,trans_emb_46,0.047455468595583715
+0,Bulk Carrier,10,136,cog_fft2,0.03613238276829301
+1,Cargo Ship,1,3,trans_emb_3,0.5680121003126096
+1,Cargo Ship,2,46,trans_emb_46,0.21723449169803868
+1,Cargo Ship,3,11,trans_emb_11,0.13044845719636866
+1,Cargo Ship,4,4,trans_emb_4,0.12679252435405525
+1,Cargo Ship,5,60,trans_emb_60,0.09046861746495816
+1,Cargo Ship,6,61,trans_emb_61,0.07641823601474865
+1,Cargo Ship,7,43,trans_emb_43,0.06983021437814947
+1,Cargo Ship,8,28,trans_emb_28,0.06415826393567732
+1,Cargo Ship,9,32,trans_emb_32,0.053819283219142484
+1,Cargo Ship,10,5,trans_emb_5,0.05294696757807261
+2,Chemical Tanker,1,55,trans_emb_55,0.5059465290963086
+2,Chemical Tanker,2,30,trans_emb_30,0.07268822979237374
+2,Chemical Tanker,3,4,trans_emb_4,0.055517039158016215
+2,Chemical Tanker,4,26,trans_emb_26,0.044037303493747085
+2,Chemical Tanker,5,112,curv_max,0.03525723884111148
+2,Chemical Tanker,6,7,trans_emb_7,0.0329946192015575
+2,Chemical Tanker,7,31,trans_emb_31,0.027059861184565864
+2,Chemical Tanker,8,44,trans_emb_44,0.021552240993307204
+2,Chemical Tanker,9,56,trans_emb_56,0.019677429808156507
+2,Chemical Tanker,10,110,curv_mean,0.017793509947082516
+3,Container Ship,1,32,trans_emb_32,0.6861718123926973
+3,Container Ship,2,53,trans_emb_53,0.1761809964356855
+3,Container Ship,3,45,trans_emb_45,0.11486180453148226
+3,Container Ship,4,58,trans_emb_58,0.1000655872322879
+3,Container Ship,5,57,trans_emb_57,0.08651595540773016
+3,Container Ship,6,49,trans_emb_49,0.08319058042832003
+3,Container Ship,7,11,trans_emb_11,0.07660946063287626
+3,Container Ship,8,50,trans_emb_50,0.06414470717167585
+3,Container Ship,9,154,seg1_sog_std,0.06400369705064249
+3,Container Ship,10,95,dsog_max,0.055215036138782994
+4,Fishing Ship,1,16,trans_emb_16,0.918281174364838
+4,Fishing Ship,2,34,trans_emb_34,0.1763534994292919
+4,Fishing Ship,3,38,trans_emb_38,0.05465653518466461
+4,Fishing Ship,4,49,trans_emb_49,0.051900091747661206
+4,Fishing Ship,5,20,trans_emb_20,0.051343352543243605
+4,Fishing Ship,6,55,trans_emb_55,0.0492891422501926
+4,Fishing Ship,7,130,sog_fft1,0.04814065111850587
+4,Fishing Ship,8,23,trans_emb_23,0.03823900421518219
+4,Fishing Ship,9,42,trans_emb_42,0.03643590605309768
+4,Fishing Ship,10,106,acc_std,0.03502625380771086
+5,LNG Carrier,1,52,trans_emb_52,0.20829144666373114
+5,LNG Carrier,2,55,trans_emb_55,0.13393971030588545
+5,LNG Carrier,3,2,trans_emb_2,0.11228722624724877
+5,LNG Carrier,4,20,trans_emb_20,0.10357135216756952
+5,LNG Carrier,5,6,trans_emb_6,0.08458372863968802
+5,LNG Carrier,6,45,trans_emb_45,0.06591776070843124
+5,LNG Carrier,7,117,duration,0.03386965672247553
+5,LNG Carrier,8,51,trans_emb_51,0.029260301570948673
+5,LNG Carrier,9,63,trans_emb_63,0.02884163461565069
+5,LNG Carrier,10,18,trans_emb_18,0.027494878522533
+6,Other Cargo,1,8,trans_emb_8,0.1925233153124466
+6,Other Cargo,2,6,trans_emb_6,0.1490070052413946
+6,Other Cargo,3,18,trans_emb_18,0.0477612756602845
+6,Other Cargo,4,32,trans_emb_32,0.03735620642552239
+6,Other Cargo,5,83,cog_max,0.03304151608618361
+6,Other Cargo,6,34,trans_emb_34,0.01851440879650423
+6,Other Cargo,7,77,sog_q90,0.010897881788127249
+6,Other Cargo,8,129,stop_time,0.01065435330335157
+6,Other Cargo,9,16,trans_emb_16,0.009894395312988486
+6,Other Cargo,10,82,cog_min,0.008758587951939742
+7,Passenger Ship,1,11,trans_emb_11,0.3806968416875556
+7,Passenger Ship,2,4,trans_emb_4,0.28751906133906185
+7,Passenger Ship,3,22,trans_emb_22,0.1965473331478222
+7,Passenger Ship,4,24,trans_emb_24,0.1719533270635171
+7,Passenger Ship,5,59,trans_emb_59,0.1331139834726684
+7,Passenger Ship,6,12,trans_emb_12,0.08632641966314762
+7,Passenger Ship,7,38,trans_emb_38,0.0810318888522836
+7,Passenger Ship,8,21,trans_emb_21,0.064945938956594
+7,Passenger Ship,9,39,trans_emb_39,0.052309133103557476
+7,Passenger Ship,10,54,trans_emb_54,0.05042972546053113
+8,Pleasure Craft,1,116,dt_max,0.24560901149741915
+8,Pleasure Craft,2,52,trans_emb_52,0.1505438768818905
+8,Pleasure Craft,3,129,stop_time,0.06464798284412042
+8,Pleasure Craft,4,117,duration,0.06220491382438867
+8,Pleasure Craft,5,58,trans_emb_58,0.049163417870463404
+8,Pleasure Craft,6,27,trans_emb_27,0.04813003284240074
+8,Pleasure Craft,7,45,trans_emb_45,0.0479522805011523
+8,Pleasure Craft,8,12,trans_emb_12,0.04610705428270576
+8,Pleasure Craft,9,19,trans_emb_19,0.030333657669828366
+8,Pleasure Craft,10,51,trans_emb_51,0.019098156803176666
+9,Reefer Ship,1,47,trans_emb_47,0.48621353081585383
+9,Reefer Ship,2,15,trans_emb_15,0.3153765611754715
+9,Reefer Ship,3,52,trans_emb_52,0.21170670785495302
+9,Reefer Ship,4,11,trans_emb_11,0.15354598924669485
+9,Reefer Ship,5,14,trans_emb_14,0.09481044136080204
+9,Reefer Ship,6,31,trans_emb_31,0.0860085586449278
+9,Reefer Ship,7,26,trans_emb_26,0.056049194099030204
+9,Reefer Ship,8,74,sog_q10,0.04413582973682748
+9,Reefer Ship,9,54,trans_emb_54,0.03344894418149158
+9,Reefer Ship,10,4,trans_emb_4,0.031056138364258457
+10,Ro-Ro Ship,1,48,trans_emb_48,0.8880789127811488
+10,Ro-Ro Ship,2,27,trans_emb_27,0.05174493959572179
+10,Ro-Ro Ship,3,49,trans_emb_49,0.039281963041052324
+10,Ro-Ro Ship,4,45,trans_emb_45,0.03678994061726461
+10,Ro-Ro Ship,5,7,trans_emb_7,0.02765010684304698
+10,Ro-Ro Ship,6,14,trans_emb_14,0.012842051760008051
+10,Ro-Ro Ship,7,53,trans_emb_53,0.00894159077296203
+10,Ro-Ro Ship,8,4,trans_emb_4,0.004852919278688952
+10,Ro-Ro Ship,9,66,sog_std,0.0048328020982640356
+10,Ro-Ro Ship,10,39,trans_emb_39,0.004541440263457362
+11,Tanker,1,44,trans_emb_44,0.38562154476348487
+11,Tanker,2,33,trans_emb_33,0.37163892422646494
+11,Tanker,3,51,trans_emb_51,0.3532393102006352
+11,Tanker,4,28,trans_emb_28,0.1000370544535048
+11,Tanker,5,70,sog_range,0.09293644658333115
+11,Tanker,6,45,trans_emb_45,0.07680440014340605
+11,Tanker,7,29,trans_emb_29,0.07036309541477692
+11,Tanker,8,25,trans_emb_25,0.05537340649086366
+11,Tanker,9,40,trans_emb_40,0.052922273016336646
+11,Tanker,10,30,trans_emb_30,0.04479372125792798
+12,Tug,1,58,trans_emb_58,0.38384369588203304
+12,Tug,2,56,trans_emb_56,0.2466246918621198
+12,Tug,3,46,trans_emb_46,0.1412407461515953
+12,Tug,4,117,duration,0.13635461346035607
+12,Tug,5,17,trans_emb_17,0.10637951093681716
+12,Tug,6,30,trans_emb_30,0.08792615573863999
+12,Tug,7,0,trans_emb_0,0.08393561838896338
+12,Tug,8,48,trans_emb_48,0.07262148775912682
+12,Tug,9,52,trans_emb_52,0.0688658720888607
+12,Tug,10,157,seg3_sog_mean,0.06220073106716797
+13,Vehicle Carrier,1,10,trans_emb_10,0.3623138120799592
+13,Vehicle Carrier,2,57,trans_emb_57,0.313201758428574
+13,Vehicle Carrier,3,9,trans_emb_9,0.3100218213202806
+13,Vehicle Carrier,4,20,trans_emb_20,0.15354921956436174
+13,Vehicle Carrier,5,59,trans_emb_59,0.08269195038976032
+13,Vehicle Carrier,6,63,trans_emb_63,0.06483817678616376
+13,Vehicle Carrier,7,41,trans_emb_41,0.06381080576935093
+13,Vehicle Carrier,8,54,trans_emb_54,0.04927940792185089
+13,Vehicle Carrier,9,34,trans_emb_34,0.0459877364262746
+13,Vehicle Carrier,10,154,seg1_sog_std,0.03793884195872106

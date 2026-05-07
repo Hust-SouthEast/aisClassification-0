@@ -1,0 +1,6 @@
+{
+  "transformer_params": 101198,
+  "transformer_disk_KB": 438.1015625,
+  "lightgbm_disk_KB": 2177.85546875,
+  "total_disk_KB": 2615.95703125
+}

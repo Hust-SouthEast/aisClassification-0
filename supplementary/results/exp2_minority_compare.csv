@@ -1,0 +1,13 @@
+class_id,class_name,support,strategy,precision,recall,f1
+6,Other Cargo,5,baseline,0.8,0.8,0.8
+6,Other Cargo,5,class_weight_balanced,1.0,1.0,1.0
+6,Other Cargo,5,is_unbalance,0.8,0.8,0.8
+6,Other Cargo,5,smote,1.0,1.0,1.0
+8,Pleasure Craft,5,baseline,1.0,0.6,0.75
+8,Pleasure Craft,5,class_weight_balanced,1.0,0.8,0.8888888888888888
+8,Pleasure Craft,5,is_unbalance,1.0,0.6,0.75
+8,Pleasure Craft,5,smote,1.0,0.8,0.8888888888888888
+5,LNG Carrier,6,baseline,0.3333333333333333,0.16666666666666666,0.2222222222222222
+5,LNG Carrier,6,class_weight_balanced,0.2857142857142857,0.3333333333333333,0.3076923076923077
+5,LNG Carrier,6,is_unbalance,0.3333333333333333,0.16666666666666666,0.2222222222222222
+5,LNG Carrier,6,smote,0.3333333333333333,0.3333333333333333,0.3333333333333333

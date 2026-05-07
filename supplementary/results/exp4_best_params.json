@@ -1,0 +1,16 @@
+{
+  "best_value_val_macro_f1": 0.6983897970593574,
+  "best_params": {
+    "num_leaves": 24,
+    "max_depth": 6,
+    "learning_rate": 0.02407890441287697,
+    "min_data_in_leaf": 36,
+    "feature_fraction": 0.5839244910838727,
+    "bagging_fraction": 0.9501789959886848,
+    "bagging_freq": 6,
+    "lambda_l1": 0.001590833215577979,
+    "lambda_l2": 0.0009782050513706289
+  },
+  "n_trials": 50,
+  "search_target_metric": "macro_f1"
+}

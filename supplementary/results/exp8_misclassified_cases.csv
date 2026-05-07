@@ -1,0 +1,12 @@
+test_idx,true_class,pred_class,proba_true,proba_pred,top_features_for_pred_class
+9,Vehicle Carrier,Reefer Ship,0.054716310722994134,0.7287374532734225,"trans_emb_15(+1.407), trans_emb_47(+1.230), trans_emb_52(+0.646), trans_emb_11(+0.554), trans_emb_31(+0.189)"
+191,Vehicle Carrier,Reefer Ship,0.041144079147320836,0.4831621203334822,"trans_emb_47(+0.707), trans_emb_11(+0.474), trans_emb_15(+0.418), trans_emb_52(+0.401), trans_emb_31(+0.226)"
+200,Vehicle Carrier,Reefer Ship,0.013347897424984842,0.5495772366171005,"trans_emb_47(+1.152), trans_emb_52(+0.524), trans_emb_15(+0.494), trans_emb_14(+0.302), trans_emb_31(+0.217)"
+310,Vehicle Carrier,Reefer Ship,0.012287408640551981,0.9593905098633946,"trans_emb_15(+1.663), trans_emb_47(+1.169), trans_emb_11(+0.715), trans_emb_52(+0.696), trans_emb_14(+0.598)"
+86,Reefer Ship,Container Ship,0.08411401804820112,0.870352726739487,"trans_emb_32(+1.484), trans_emb_57(+0.897), trans_emb_45(+0.566), trans_emb_53(+0.236), trans_emb_52(+0.186)"
+118,Reefer Ship,Container Ship,0.04721202941868123,0.456417193164456,"trans_emb_32(+1.037), trans_emb_58(+0.449), trans_emb_53(+0.447), seg1_sog_std(-0.430), seg1_sog_mean(-0.290)"
+246,Reefer Ship,Container Ship,0.17423976142654032,0.201433630258158,"trans_emb_32(+0.341), cog_skew(+0.301), trans_emb_53(+0.157), seg1_sog_mean(-0.106), trans_emb_11(+0.094)"
+315,Reefer Ship,Container Ship,0.006749330287935844,0.9463477994844639,"trans_emb_32(+1.470), trans_emb_57(+0.718), trans_emb_45(+0.535), trans_emb_53(+0.377), trans_emb_52(+0.277)"
+3,Cargo Ship,Vehicle Carrier,0.3417716595346691,0.5525545840869488,"trans_emb_57(+1.136), trans_emb_20(+0.556), trans_emb_10(+0.395), trans_emb_59(+0.272), trans_emb_41(-0.202)"
+5,Cargo Ship,Vehicle Carrier,0.03166547094411625,0.41957095189233956,"trans_emb_9(+1.190), trans_emb_10(+0.752), trans_emb_20(-0.416), trans_emb_57(+0.198), trans_emb_55(+0.134)"
+95,Cargo Ship,Vehicle Carrier,0.137671939798524,0.6278409889160138,"trans_emb_57(+1.231), trans_emb_10(+0.359), trans_emb_20(+0.352), trans_emb_41(+0.201), trans_emb_17(+0.178)"

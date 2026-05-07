@@ -1,0 +1,15 @@
+{
+  "test_accuracy": 0.796969696969697,
+  "test_macro_f1": 0.7642910281694179,
+  "best_params": {
+    "num_leaves": 24,
+    "max_depth": 6,
+    "learning_rate": 0.02407890441287697,
+    "min_data_in_leaf": 36,
+    "feature_fraction": 0.5839244910838727,
+    "bagging_fraction": 0.9501789959886848,
+    "bagging_freq": 6,
+    "lambda_l1": 0.001590833215577979,
+    "lambda_l2": 0.0009782050513706289
+  }
+}

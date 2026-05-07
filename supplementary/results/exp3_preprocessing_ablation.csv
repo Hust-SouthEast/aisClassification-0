@@ -1,0 +1,8 @@
+config,repair_missing,interp_method,seq_len,accuracy,macro_f1
+repair=False (raw),False,linear,128,0.8,0.7859736659330688
+repair=True linear,True,linear,128,0.7696969696969697,0.7236712415048672
+repair=True nearest,True,nearest,128,0.8090909090909091,0.7650411814403316
+repair=True cubic,True,cubic,128,0.7878787878787878,0.7594022083847963
+seq_len=64 (linear),True,linear,64,0.8151515151515152,0.7925980452219891
+seq_len=128 (linear)*,True,linear,128,0.8121212121212121,0.7819794585726502
+seq_len=256 (linear),True,linear,256,0.7848484848484848,0.7765630740101452
